@@ -1,1 +1,1 @@
-# JS-Animation-Landing-Page
+# Responsive-Portfolio-JS

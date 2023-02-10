@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.sky {
+  overflow-x: hidden;
+  position: relative;
+  background-image: linear-gradient(#F3BADB, #F6D19C);
+  width: 100%;
+  height: 95vh;
+  display: flex;
+  justify-content: center;
+}
+.sky img {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+.sky #cloud-one {
+  width: 20%;
+}
+.sky #cloud-two {
+  width: 25%;
+}
+.sky #cloud-three {
+  width: 35%;
+}
+.sky #cloud-four {
+  width: 24%;
+  margin-right: 40%;
+}
+.sky #cloud-five {
+  width: 23%;
+}
+.sky #javascript {
+  width: 5%;
+  bottom: 30%;
+}
+.sky #react {
+  width: 5%;
+  bottom: 30%;
+}
+.sky #graphql {
+  width: 5%;
+  bottom: 30%;
+}
+.sky #air-balloon {
+  width: 10%;
+}
+
+.about-me {
+  height: 600px;
+  background-color: #69d31D;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.about-me h1 {
+  color: white;
+  font-family: "VT323", monospace;
+  font-size: 5rem;
+}/*# sourceMappingURL=styles.css.map */
